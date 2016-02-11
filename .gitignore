@@ -1,0 +1,6 @@
+.DS_Store
+**/.idea/*
+**/.idea/**/*
+android/Anyplace/gen/**/*
+android/actionbarsherlock/gen/**/*
+**/gen/**/*
